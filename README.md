@@ -1,5 +1,5 @@
 -  Hi, I’m @manmshuk
--  I’m interested in C/C++
+-  I’m interested in C/C++ and systems programming.
 -  I’m currently learning compiler design.
 
 
