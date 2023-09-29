@@ -1,6 +1,6 @@
 -  Hi, I’m @manmshuk
--  I’m interested in C/C++ and systems programming.
--  I’m currently learning compiler design.
+
+This is me trying to flex that I can indeed learn stuff on my own!
 
 
 <!---
