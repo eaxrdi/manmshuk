@@ -1,6 +1,6 @@
--  Hi, I’m @manmshuk
+Hi, I’m @manmshuk  
 
-This is me trying to flex that I can indeed learn stuff on my own!
+_And this is me trying to flex that I can indeed learn stuff on my own!_
 
 
 <!---
